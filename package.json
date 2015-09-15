@@ -4,7 +4,8 @@
   "description": "MOUT wrapper for Angular.js 1.X",
   "main": "src/app.js",
   "scripts": {
-    "test": "mocha"
+    "test": "mocha",
+    "postinstall": "bower install"
   },
   "repository": {
     "type": "git",
