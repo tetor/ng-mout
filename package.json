@@ -1,0 +1,23 @@
+{
+  "name": "ng-mout",
+  "version": "0.1.0-alpha",
+  "description": "MOUT wrapper for Angular.js 1.X",
+  "main": "src/app.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://gitlab.com/tetou/ng-mout.git"
+  },
+  "author": "tetor <tetor.takashi.etou@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://gitlab.com/tetou/ng-mout/issues"
+  },
+  "homepage": "https://gitlab.com/tetou/ng-mout#README",
+  "devDependencies": {
+    "babel": "^5.8.23",
+    "mocha": "^2.3.2"
+  }
+}
