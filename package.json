@@ -18,6 +18,7 @@
   "homepage": "https://gitlab.com/tetou/ng-mout#README",
   "devDependencies": {
     "babel": "^5.8.23",
+    "bower": "^1.5.2",
     "mocha": "^2.3.2"
   }
 }

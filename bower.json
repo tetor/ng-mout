@@ -1,0 +1,16 @@
+{
+  "name": "ng-mout",
+  "version": "0.1.0-alpha",
+  "authors": [
+    "tetor <tetor.takashi.etou@gmail.com>"
+  ],
+  "description": "MOUT wrapper of Angular.js 1.X",
+  "main": "src/app.js",
+  "moduleType": [
+    "amd",
+    "es6",
+    "globals",
+    "node"
+  ],
+  "license": "MIT"
+}
