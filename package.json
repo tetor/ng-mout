@@ -7,6 +7,11 @@
     "test": "mocha",
     "postinstall": "bower install"
   },
+  "files": [
+    "README.md",
+    "index.js",
+    "package.json"
+  ],
   "repository": {
     "type": "git",
     "url": "git+https://gitlab.com/tetou/ng-mout.git"
