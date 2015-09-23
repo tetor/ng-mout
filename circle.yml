@@ -1,6 +1,7 @@
+---
 mathine:
   node:
-    version: 0.12.0
+    - version: 0.12.0
 
 notify:
   webhook:
