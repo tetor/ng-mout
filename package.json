@@ -4,7 +4,7 @@
   "description": "MOUT wrapper for Angular.js 1.X",
   "main": "src/app.js",
   "scripts": {
-    "test": "mocha",
+    "test": "karma start",
     "postinstall": "bower install"
   },
   "files": [
@@ -25,7 +25,15 @@
   "devDependencies": {
     "babel": "^5.8.23",
     "bower": "^1.5.2",
+    "chai": "^3.3.0",
+    "gulp": "^3.9.0",
     "karma": "^0.13.10",
+    "karma-chai": "^0.1.0",
+    "karma-chrome-launcher": "^0.2.0",
+    "karma-coffee-preprocessor": "^0.3.0",
+    "karma-mocha": "^0.2.0",
+    "karma-mocha-reporter": "^1.1.1",
+    "karma-phantomjs-launcher": "^0.2.1",
     "mocha": "^2.3.2"
   }
 }
