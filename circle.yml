@@ -1,6 +1,10 @@
 ---
 machine:
-  node: version: 0.12.0
+  node:
+  version: 0.10.22
+
+# machine:
+#   node: version: 0.12.0
 
 notify:
   webhooks:
