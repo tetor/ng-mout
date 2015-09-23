@@ -1,8 +1,7 @@
 ---
 machine:
-  node:
-    - version: 0.12.0
+  node: version: 0.12.0
 
 notify:
-  webhook:
+  webhooks:
     - https://webhooks.gitter.im/e/ee243987ddcbc1e70466
