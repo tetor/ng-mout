@@ -1,2 +1,4 @@
-'use strict'
-angular.module('ngMout', []);
+;(function() {
+  'use strict'
+  angular.module('ngMout', []);
+});
