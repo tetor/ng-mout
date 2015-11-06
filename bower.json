@@ -7,10 +7,7 @@
   "description": "MOUT filter of Angular.js 1.X",
   "main": "src/app.js",
   "moduleType": [
-    "amd",
-    "es6",
     "globals",
-    "node"
   ],
   "license": "MIT",
   "devDependencies": {
